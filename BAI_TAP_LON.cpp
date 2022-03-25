@@ -31,7 +31,7 @@ class vat_Can{
 		}
 		
 		void in_Vat_Can(){
-			cout << endl << "| " << setw(11) << this->ten << " | " << setw(11) << this->so_Luong << " |";
+			cout << endl << setw(11) << this->ten << " | " << setw(11) << this->so_Luong << " |";
 		}
 };
 
